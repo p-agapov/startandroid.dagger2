@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name = "Dagger 2"
+include ':first-project'
+rootProject.name = "Start Android Dagger 2"
